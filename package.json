@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@primeuix/themes": "^2.0.3",
+    "primevue": "^4.5.4"
+  },
+  "devDependencies": {
+    "@vue/tsconfig": "^0.9.1"
+  }
+}
